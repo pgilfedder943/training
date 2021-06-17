@@ -7,3 +7,4 @@ notifications:
     recipients: pgilfedder943@gmail.com
     on_failure: always
     on_success: never
+
